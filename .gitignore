@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+frame_*.png
+drawing_demo.png
+*.avi
+*.mp4
+calibration.*
